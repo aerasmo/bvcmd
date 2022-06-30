@@ -1,5 +1,5 @@
 # Bible Verse CMD
-A script utility that scrapes https://www.bible.com/ and paste the bible verse to the clipboard. 
+A script utility that scrapes https://www.bible.com/ for a bible verse and paste it to the clipboard. 
 - currently supports tagalog bible (tlab)
 
 # Usage sample 
