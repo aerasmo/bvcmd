@@ -20,7 +20,7 @@
     "PSA": ["awit", "psalm"],
     "PRO": ["kawikaan", "proverbs"],
     "ECC": ["eclesiastes", "ecclesiastes"],
-    "SNG": ["sol", "awit-ng-mga-awit", "song-of-solomon"],
+    "SNG": ["sol", "sos", "awit-ng-mga-awit", "song-of-solomon"],
     "ISA": ["isaias", "isaiah"],
     "JER": ["jeremias", "jeremiah"],
     "LAM": ["panaghoy", "lamentations"],
